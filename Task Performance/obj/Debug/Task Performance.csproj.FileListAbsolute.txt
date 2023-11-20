@@ -1,0 +1,14 @@
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.exe.config
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.exe
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.pdb
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.AssemblyReference.cache
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.FrmBasicCalculator.resources
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.Properties.Resources.resources
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.GenerateResource.cache
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.CoreCompileInputs.cache
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.exe
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.pdb
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\Villegas.246445\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.CopyComplete

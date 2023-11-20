@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Performance", "Task Performance\Task Performance.csproj", "{F53A8969-903F-4E8B-B976-00344FC6AAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorPrivateAssembly", "Task Performance\CalculatorPrivateAssembly\CalculatorPrivateAssembly.csproj", "{79CA6BA0-F429-4CDE-BD92-5989B770D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53A8969-903F-4E8B-B976-00344FC6AAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53A8969-903F-4E8B-B976-00344FC6AAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53A8969-903F-4E8B-B976-00344FC6AAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53A8969-903F-4E8B-B976-00344FC6AAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CA6BA0-F429-4CDE-BD92-5989B770D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CA6BA0-F429-4CDE-BD92-5989B770D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CA6BA0-F429-4CDE-BD92-5989B770D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CA6BA0-F429-4CDE-BD92-5989B770D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2398BAF2-3576-4036-9BCF-AFCA9993CAA6}
+	EndGlobalSection
+EndGlobal
